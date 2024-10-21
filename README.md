@@ -10,3 +10,6 @@
 luhcnuy/luhcnuy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+신윤철
+냄비근성의 사나이
